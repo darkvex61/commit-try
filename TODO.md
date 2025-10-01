@@ -1,1 +1,2 @@
 - 10 Commit tamamlanacak.
+- Hatalar cozuldu.
